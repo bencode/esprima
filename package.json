@@ -1,5 +1,5 @@
 {
-    "name": "esprima-with-harmony",
+    "name": "esprima-for-harmony",
     "description": "ECMAScript parsing infrastructure for multipurpose analysis",
     "homepage": "http://esprima.org",
     "main": "esprima.js",
@@ -7,7 +7,7 @@
         "esparse": "./bin/esparse.js",
         "esvalidate": "./bin/esvalidate.js"
     },
-    "version": "1.1.1-dev-harmony",
+    "version": "1.1.0-dev-harmony",
     "files": [
         "bin",
         "test/run.js",
